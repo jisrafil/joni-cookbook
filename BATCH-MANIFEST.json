@@ -1,0 +1,24 @@
+{
+  "new_recipe_count": 15,
+  "total_after_upload": 27,
+  "new_recipes": [
+    "Blueberry Buttermilk Pancakes",
+    "Cheese Grits",
+    "Sausage & Egg Breakfast Burritos",
+    "Potato Soup",
+    "Beef Stew",
+    "Lasagna",
+    "Stuffed Shells",
+    "Fettuccine Alfredo",
+    "Chicken Parmesan",
+    "BBQ Ribs",
+    "Brisket",
+    "Grilled Corn on the Cob",
+    "Chicken & Rice Bake",
+    "Banana Pudding",
+    "Peach Cobbler"
+  ],
+  "homepage": "UPLOAD-AS-index.html",
+  "homepage_images_needed": false,
+  "note": "Existing homepage image files stay in GitHub; this index continues to reference them."
+}
