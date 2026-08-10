@@ -1,0 +1,21 @@
+{
+  "set": "Current repaired set",
+  "recipe_count": 12,
+  "layout": "All recipe HTML files live in the GitHub repository root.",
+  "backlink_standard": "href=\"index.html\"",
+  "homepage_upload_name": "Rename UPLOAD-AS-index.html to index.html in GitHub",
+  "recipes": [
+    "Basic Meatloaf",
+    "Basic Mac and Cheese (Roux-Based)",
+    "Traditional Salisbury Steak",
+    "Classic Potato Salad",
+    "Classic Southern Potato Salad",
+    "Red Beans and Rice",
+    "Classic Coleslaw",
+    "Chicken Florentine",
+    "Chicken and Dumplings",
+    "Sausage Biscuits & Gravy",
+    "Shrimp and Grits",
+    "Build-Your-Own Taco Bar"
+  ]
+}

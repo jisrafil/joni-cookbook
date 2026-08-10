@@ -1,0 +1,20 @@
+JONI'S COOKBOOK — FINISH CURRENT SET
+
+This package contains the complete CURRENT SET: 12 recipe pages plus the corrected homepage.
+
+UPLOAD:
+1. Upload/replace all 12 recipe .html files in the ROOT of joni-cookbook.
+2. For the homepage:
+   - Open UPLOAD-AS-index.html.
+   - Copy its contents into the existing GitHub index.html, OR rename it to index.html BEFORE upload.
+   - Do NOT leave UPLOAD-AS-index.html as a second homepage file.
+3. Delete stray index (1).html / index (2).html files after confirming the real index.html works.
+4. Commit changes and wait for GitHub Pages deployment.
+5. Hard refresh the site.
+6. Test:
+   - Open Basic Meatloaf from homepage.
+   - Click ← Joni's Cookbook. It should return home.
+   - Open Taco Bar and Classic Potato Salad.
+   - Import one recipe into AnyList to confirm Schema data still works.
+
+This set uses the flat/root GitHub structure. No /recipes/ folder paths are used.
