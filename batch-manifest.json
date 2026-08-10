@@ -1,0 +1,18 @@
+{
+  "batch": 1,
+  "recipe_count": 10,
+  "standard": "Schema.org Recipe JSON-LD embedded in individual HTML pages",
+  "author": "Joni",
+  "recipes": [
+    "Basic Meatloaf",
+    "Basic Mac and Cheese (Roux-Based)",
+    "Traditional Salisbury Steak",
+    "Classic Southern Potato Salad",
+    "Red Beans and Rice",
+    "Classic Coleslaw",
+    "Chicken Florentine",
+    "Chicken and Dumplings",
+    "Sausage Biscuits & Gravy",
+    "Shrimp and Grits"
+  ]
+}
