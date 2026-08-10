@@ -1,22 +1,23 @@
 {
+  "batch": 4,
   "new_recipe_count": 15,
-  "total_after_upload": 42,
+  "total_after_upload": 57,
+  "homepage": "index.html",
   "new_recipes": [
-    "Stuffed Pepper Soup",
-    "Spaghetti Carbonara",
-    "BBQ Chicken Drumsticks",
-    "Homemade Lemonade",
-    "Stuffed Bell Peppers",
-    "Stuffed Cabbage Leaves",
-    "Chocolate Chess Pie",
-    "Sweet Tea",
-    "Homemade Brownies",
-    "Sweet Potato Pie",
-    "Collard Greens",
-    "Smothered Pork Chops",
-    "Shrimp Egg Rolls",
-    "BLT Pasta Salad",
-    "Barbacoa Beef"
-  ],
-  "homepage": "index.html"
+    "Pulled Pork",
+    "Pecan Pie",
+    "French Toast Casserole",
+    "Plain Bagels",
+    "Blueberry Bagels",
+    "Cinnamon Raisin Bagels",
+    "Jalapeño Cheddar Bagels",
+    "Panera-Style Blueberry Muffins",
+    "All-Butter Pie Crust",
+    "McGriddle (Copycat)",
+    "Buffalo Chicken Dip – Classic",
+    "Sweet Water Cornbread",
+    "Chick-fil-A Nuggets (Copycat)",
+    "Lemon Glazed Loaf",
+    "Steak Fajita Bowl"
+  ]
 }

@@ -1,16 +1,32 @@
-JONI'S COOKBOOK — BATCH 3 / NEXT 15
+JONI'S COOKBOOK — BATCH 4
 
-This package adds 15 new recipe pages and includes the updated homepage as the NORMAL filename: index.html.
+Adds 15 new recipe pages + updated index.html.
+After upload: 57 recipes total.
 
-UPLOAD ORDER
-1. Upload the 15 new recipe .html files to the ROOT of joni-cookbook.
+UPLOAD
+1. Upload the 15 new recipe HTML files to the ROOT of joni-cookbook.
 2. Upload index.html and replace the existing index.html.
-3. Commit changes.
-4. Wait for GitHub Pages to deploy.
+3. Commit.
+4. Wait for GitHub Pages.
 5. Hard refresh (Ctrl+Shift+R).
-6. Test one new recipe, then click ← Back to Recipes.
-7. Import one new recipe into AnyList to confirm Schema.org parsing.
+6. Test a new recipe and ← Back to Recipes.
+7. Test one new recipe in AnyList.
 
-Do not re-upload the family photo JPGs. The homepage still references the same images already in GitHub.
+No family image files need to be re-uploaded.
 
-After this upload: 42 recipes total.
+NEW IN BATCH 4
+Pulled Pork
+Pecan Pie
+French Toast Casserole
+Plain Bagels
+Blueberry Bagels
+Cinnamon Raisin Bagels
+Jalapeño Cheddar Bagels
+Panera-Style Blueberry Muffins
+All-Butter Pie Crust
+McGriddle (Copycat)
+Buffalo Chicken Dip – Classic
+Sweet Water Cornbread
+Chick-fil-A Nuggets (Copycat)
+Lemon Glazed Loaf
+Steak Fajita Bowl
