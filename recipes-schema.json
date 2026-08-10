@@ -1,0 +1,210 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "name": "Classic Potato Salad",
+    "recipeCategory": [
+      "Side Dish",
+      "Potatoes",
+      "Summer",
+      "Picnic"
+    ],
+    "keywords": "Side Dish, Potatoes, Summer, Picnic",
+    "recipeIngredient": [
+      "3 pounds potatoes (Yukon Gold or red potatoes)",
+      "1 cup mayonnaise",
+      "1/4 cup yellow mustard",
+      "2 teaspoons apple cider vinegar",
+      "1/2 cup sweet pickle relish",
+      "1 medium onion, finely diced",
+      "3 celery stalks, finely chopped",
+      "4 hard-boiled eggs, chopped",
+      "Salt and pepper, to taste",
+      "Paprika (optional, for garnish)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "name": "Cook the Potatoes",
+        "text": "Wash and cut potatoes into bite-sized pieces. Boil in salted water until tender but not falling apart, about 10-15 minutes. Drain and let cool."
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Prepare the Dressing",
+        "text": "In a large bowl, mix mayonnaise, mustard, apple cider vinegar, and sweet pickle relish until well combined. Joni's note: mix and mash some of the potatoes into the dressing."
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Combine Ingredients",
+        "text": "Add the cooled potatoes, diced onion, celery, and chopped eggs to the dressing."
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Season",
+        "text": "Taste and adjust seasoning with salt and pepper. For extra tang, add more mustard or vinegar as desired."
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Chill",
+        "text": "Cover and refrigerate for at least 1 hour to allow flavors to meld."
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Serve",
+        "text": "Before serving, sprinkle with paprika."
+      }
+    ],
+    "description": "Best served chilled for maximum flavor. Adjust mustard or vinegar to taste. Great for barbecues, potlucks, and picnics."
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "name": "Build-Your-Own Taco Bar",
+    "recipeCategory": [
+      "Mexican",
+      "Beef",
+      "Chicken",
+      "DIY",
+      "Party"
+    ],
+    "keywords": "Mexican, Beef, Chicken, DIY, Party",
+    "recipeIngredient": [
+      "1 pound ground beef",
+      "1 packet taco seasoning",
+      "3/4 cup water",
+      "2 cups shredded cooked chicken (optional)",
+      "1/2 teaspoon cumin (for chicken)",
+      "1/2 teaspoon garlic powder (for chicken)",
+      "1/4 teaspoon salt (for chicken)",
+      "8 small flour tortillas",
+      "4 cups shredded lettuce",
+      "1 cup shredded cheddar cheese or Mexican blend",
+      "1 can refried beans",
+      "1/2 cup diced red onion",
+      "1/2 cup black beans, drained and rinsed (optional)",
+      "1/2 cup corn (optional)",
+      "1/4 cup sliced black olives (optional)",
+      "1/2 cup sour cream",
+      "1/2 cup salsa",
+      "1/4 cup ranch dressing (optional)",
+      "1/2 cup guacamole (optional)",
+      "2 cups crushed tortilla chips (for salad option)",
+      "2 Roma tomatoes, diced",
+      "1/4 cup red onion, finely diced",
+      "1/4 cup fresh cilantro, chopped",
+      "1 jalapeno, finely diced (optional)",
+      "1 tablespoon lime juice",
+      "1/4 teaspoon salt",
+      "1 bag Doritos, Regular",
+      "1 bag Doritos, Spicy Chili",
+      "1 pack soft small tortillas"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToSection",
+        "name": "Cook the Beef",
+        "itemListElement": [
+          {
+            "@type": "HowToStep",
+            "name": "Brown the Beef",
+            "text": "In a skillet over medium heat, cook ground beef until browned."
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Season the Beef",
+            "text": "Drain excess grease, then add taco seasoning and water. Simmer for 5 minutes until thickened."
+          }
+        ]
+      },
+      {
+        "@type": "HowToSection",
+        "name": "Prepare the Chicken",
+        "itemListElement": [
+          {
+            "@type": "HowToStep",
+            "name": "Season the Chicken",
+            "text": "If using chicken, shred cooked chicken and toss with cumin, garlic powder, and salt."
+          }
+        ]
+      },
+      {
+        "@type": "HowToSection",
+        "name": "Make the Pico de Gallo",
+        "itemListElement": [
+          {
+            "@type": "HowToStep",
+            "name": "Mix the Pico",
+            "text": "In a bowl, mix diced tomatoes, red onion, cilantro, jalapeno if using, lime juice, and salt. Let sit for 10 minutes."
+          }
+        ]
+      },
+      {
+        "@type": "HowToSection",
+        "name": "Assemble",
+        "itemListElement": [
+          {
+            "@type": "HowToStep",
+            "name": "Build Your Meal",
+            "text": "Warm tortillas and set out the meat, toppings, pico de gallo, salad ingredients, and sides so everyone can build a soft taco or assemble a taco salad."
+          }
+        ]
+      }
+    ],
+    "recipeCuisine": "Mexican"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "name": "Basic Meatloaf",
+    "recipeCategory": [
+      "Beef",
+      "Comfort Food",
+      "Main Dish"
+    ],
+    "keywords": "Beef, Comfort Food, Main Dish",
+    "recipeIngredient": [
+      "2 pounds ground beef",
+      "1 cup breadcrumbs",
+      "1/2 cup milk",
+      "2 large eggs",
+      "1 small onion, finely chopped",
+      "2 cloves garlic, minced",
+      "1/2 cup ketchup",
+      "1 tablespoon Worcestershire sauce",
+      "1 teaspoon salt",
+      "1/2 teaspoon black pepper",
+      "1/2 teaspoon dried thyme (optional)",
+      "1/4 cup ketchup",
+      "1 tablespoon brown sugar",
+      "1 teaspoon mustard (optional)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "name": "Preheat the Oven",
+        "text": "Preheat oven to 375F (190C). Grease a loaf pan or line it with parchment paper."
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Prepare the Meat Mixture",
+        "text": "In a large bowl, combine ground beef, breadcrumbs, milk, eggs, onion, garlic, ketchup, Worcestershire sauce, salt, pepper, and thyme if using. Mix until just combined; do not overmix."
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Shape and Top",
+        "text": "Transfer the mixture into the prepared loaf pan and press lightly to shape. In a small bowl, mix the topping ingredients and spread evenly over the meatloaf."
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Bake",
+        "text": "Bake for 50-60 minutes, or until the internal temperature reaches 160F (70C)."
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Rest",
+        "text": "Let rest for 10 minutes before slicing and serving."
+      }
+    ],
+    "description": "Jarred garlic works fine. Easily doubled."
+  }
+]
