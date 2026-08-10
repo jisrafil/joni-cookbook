@@ -1,20 +1,25 @@
-JONI'S COOKBOOK — FINISH CURRENT SET
+JONI'S COOKBOOK — APPROVED HOMEPAGE PRODUCTION PACKAGE
 
-This package contains the complete CURRENT SET: 12 recipe pages plus the corrected homepage.
+This updates ONLY the homepage design and adds 3 optimized family photos.
+Your existing recipe HTML pages stay exactly where they are.
 
-UPLOAD:
-1. Upload/replace all 12 recipe .html files in the ROOT of joni-cookbook.
-2. For the homepage:
-   - Open UPLOAD-AS-index.html.
-   - Copy its contents into the existing GitHub index.html, OR rename it to index.html BEFORE upload.
-   - Do NOT leave UPLOAD-AS-index.html as a second homepage file.
-3. Delete stray index (1).html / index (2).html files after confirming the real index.html works.
-4. Commit changes and wait for GitHub Pages deployment.
-5. Hard refresh the site.
-6. Test:
-   - Open Basic Meatloaf from homepage.
-   - Click ← Joni's Cookbook. It should return home.
-   - Open Taco Bar and Classic Potato Salad.
-   - Import one recipe into AnyList to confirm Schema data still works.
+FILES TO UPLOAD TO THE ROOT OF THE joni-cookbook REPOSITORY:
+- joni-family-hero.jpg
+- joni-family-table.jpg
+- joni-family-favorites.jpg
 
-This set uses the flat/root GitHub structure. No /recipes/ folder paths are used.
+HOMEPAGE:
+- UPLOAD-AS-index.html contains the approved homepage.
+- Either copy its contents into the existing GitHub index.html,
+  OR rename it to index.html before uploading.
+- Do NOT upload it as UPLOAD-AS-index.html and expect GitHub Pages to use it as the homepage.
+
+SAFE ORDER:
+1. Upload the 3 JPG files first and commit.
+2. Confirm they appear in the GitHub repository root.
+3. Replace the existing index.html with the contents of UPLOAD-AS-index.html.
+4. Commit and wait for GitHub Pages deployment.
+5. Hard refresh the site (Ctrl+Shift+R).
+6. Test a recipe link and its ← Joni's Cookbook backlink.
+
+The recipe Schema.org markup is untouched by this homepage update.

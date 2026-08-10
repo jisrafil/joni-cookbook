@@ -1,0 +1,11 @@
+{
+  "purpose": "Approved production homepage",
+  "recipe_pages_changed": false,
+  "homepage_file": "UPLOAD-AS-index.html",
+  "image_files": [
+    "joni-family-hero.jpg",
+    "joni-family-table.jpg",
+    "joni-family-favorites.jpg"
+  ],
+  "current_recipe_count": 12
+}
