@@ -1,25 +1,22 @@
-JONI'S COOKBOOK — APPROVED HOMEPAGE PRODUCTION PACKAGE
+JONI'S COOKBOOK — BACKLINK FIX
 
-This updates ONLY the homepage design and adds 3 optimized family photos.
-Your existing recipe HTML pages stay exactly where they are.
+This package contains ONLY the 12 current recipe HTML pages.
 
-FILES TO UPLOAD TO THE ROOT OF THE joni-cookbook REPOSITORY:
-- joni-family-hero.jpg
-- joni-family-table.jpg
-- joni-family-favorites.jpg
+WHAT CHANGED:
+Every recipe's top backlink now goes to:
+    index.html#recipes
 
-HOMEPAGE:
-- UPLOAD-AS-index.html contains the approved homepage.
-- Either copy its contents into the existing GitHub index.html,
-  OR rename it to index.html before uploading.
-- Do NOT upload it as UPLOAD-AS-index.html and expect GitHub Pages to use it as the homepage.
+The visible link reads:
+    ← Back to Recipes
 
-SAFE ORDER:
-1. Upload the 3 JPG files first and commit.
-2. Confirm they appear in the GitHub repository root.
-3. Replace the existing index.html with the contents of UPLOAD-AS-index.html.
-4. Commit and wait for GitHub Pages deployment.
-5. Hard refresh the site (Ctrl+Shift+R).
-6. Test a recipe link and its ← Joni's Cookbook backlink.
+That means clicking it returns directly to the "From Our Recipe Box" recipe list
+on the new homepage instead of jumping all the way to the top.
 
-The recipe Schema.org markup is untouched by this homepage update.
+UPLOAD:
+1. Upload all 12 HTML files to the ROOT of joni-cookbook.
+2. Replace the existing files with these same-named copies.
+3. Do NOT replace index.html — the homepage is already correct.
+4. Commit changes and wait for GitHub Pages to deploy.
+5. Open any recipe, click "← Back to Recipes", and verify it lands at the recipe list.
+
+No recipe content or Schema.org data was intentionally changed.
