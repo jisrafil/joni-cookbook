@@ -1,24 +1,22 @@
 {
   "new_recipe_count": 15,
-  "total_after_upload": 27,
+  "total_after_upload": 42,
   "new_recipes": [
-    "Blueberry Buttermilk Pancakes",
-    "Cheese Grits",
-    "Sausage & Egg Breakfast Burritos",
-    "Potato Soup",
-    "Beef Stew",
-    "Lasagna",
-    "Stuffed Shells",
-    "Fettuccine Alfredo",
-    "Chicken Parmesan",
-    "BBQ Ribs",
-    "Brisket",
-    "Grilled Corn on the Cob",
-    "Chicken & Rice Bake",
-    "Banana Pudding",
-    "Peach Cobbler"
+    "Stuffed Pepper Soup",
+    "Spaghetti Carbonara",
+    "BBQ Chicken Drumsticks",
+    "Homemade Lemonade",
+    "Stuffed Bell Peppers",
+    "Stuffed Cabbage Leaves",
+    "Chocolate Chess Pie",
+    "Sweet Tea",
+    "Homemade Brownies",
+    "Sweet Potato Pie",
+    "Collard Greens",
+    "Smothered Pork Chops",
+    "Shrimp Egg Rolls",
+    "BLT Pasta Salad",
+    "Barbacoa Beef"
   ],
-  "homepage": "UPLOAD-AS-index.html",
-  "homepage_images_needed": false,
-  "note": "Existing homepage image files stay in GitHub; this index continues to reference them."
+  "homepage": "index.html"
 }

@@ -1,34 +1,16 @@
-JONI'S COOKBOOK — NEXT 15 RECIPES
+JONI'S COOKBOOK — BATCH 3 / NEXT 15
 
-This package ADDS 15 new recipe pages and updates the homepage recipe box.
+This package adds 15 new recipe pages and includes the updated homepage as the NORMAL filename: index.html.
 
 UPLOAD ORDER
-1. Upload the 15 NEW recipe HTML files to the ROOT of joni-cookbook and commit.
-2. Confirm the new files appear in the repository.
-3. Replace the existing index.html with the contents of UPLOAD-AS-index.html.
-   (Rename it to index.html first OR copy/paste its contents into GitHub's existing index.html.)
-4. Commit and wait for GitHub Pages deployment.
+1. Upload the 15 new recipe .html files to the ROOT of joni-cookbook.
+2. Upload index.html and replace the existing index.html.
+3. Commit changes.
+4. Wait for GitHub Pages to deploy.
 5. Hard refresh (Ctrl+Shift+R).
-6. Test one new recipe and its ← Back to Recipes link.
+6. Test one new recipe, then click ← Back to Recipes.
 7. Import one new recipe into AnyList to confirm Schema.org parsing.
 
-DO NOT re-upload the family JPG files. The updated homepage still uses the same image filenames already live.
+Do not re-upload the family photo JPGs. The homepage still references the same images already in GitHub.
 
-NEW RECIPES
-- Blueberry Buttermilk Pancakes
-- Cheese Grits
-- Sausage & Egg Breakfast Burritos
-- Potato Soup
-- Beef Stew
-- Lasagna
-- Stuffed Shells
-- Fettuccine Alfredo
-- Chicken Parmesan
-- BBQ Ribs
-- Brisket
-- Grilled Corn on the Cob
-- Chicken & Rice Bake
-- Banana Pudding
-- Peach Cobbler
-
-After this upload, the live cookbook will contain 27 recipes.
+After this upload: 42 recipes total.
